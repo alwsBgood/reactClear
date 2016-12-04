@@ -24,7 +24,7 @@ module.exports = {
     devtool: debug ? "inline-sourcemap" : null,
     devServer: {
         inline: true,
-        port: 8888,
+        port: 3000,
         stats: {colors: true}
     },
     node: {
