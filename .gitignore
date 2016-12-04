@@ -18,6 +18,6 @@ Thumbs.db
 
 # Application specific files
 src
-venv
+bundles
 node_modules
 .sass-cache
